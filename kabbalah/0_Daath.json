@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Daath",
+        "english": "Knowledge",
+        "names": [
+            {
+                "name": "Daath",
+                "description": "Represents the hidden sefirah, the knowledge that comes from the union of Chokhmah and Binah, and it is where all 22 paths of the Tree of Life are united into one."
+            },
+            {
+                "name": "The Abyss",
+                "description": "Symbolizes the void or the great divide that separates the higher sefirot from the lower ones, representing a leap of faith or the crossing over into understanding."
+            },
+            {
+                "name": "The Invisible Sephirah",
+                "description": "Reflects the nature of Da'ath as not being counted among the traditional ten sefirot because it is not an emanation of God’s light but rather a reflection of it in higher understanding."
+            },
+            {
+                "name": "The Bridge",
+                "description": "Embodies the transition and communication between the conscious and the subconscious, the known and the unknowable."
+            }
+        ],
+        "links": []
+    }
+]

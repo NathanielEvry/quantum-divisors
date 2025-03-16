@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Tipheret",
+        "english": "Beauty",
+        "names": [
+            {
+                "name": "Yahweh Eloah Va-Da'at",
+                "english": "The Lord God of Knowledge",
+                "description": "The Divine Name associated with Tipheret, representing the state of divine consciousness that results from the balance of wisdom and understanding."
+            },
+            {
+                "name": "Raphael",
+                "english": "Archangel of Tipheret",
+                "description": "The Archangel of healing and harmony, who brings the mercy of God into the world."
+            },
+            {
+                "name": "Malachim",
+                "english": "Kings",
+                "description": "The order of angels associated with Tipheret, symbolizing the governance and balance of divine forces."
+            },
+            {
+                "name": "Sun",
+                "description": "The planetary influence associated with Tipheret, representing the central force of vitality and illumination."
+            },
+            {
+                "name": "Zelem",
+                "english": "Image",
+                "description": "Signifies the image of God reflected in the harmony of creation, the divine template within humanity."
+            },
+            {
+                "name": "Melekh",
+                "english": "King",
+                "description": "Embodies the leadership and sovereignty that comes from a balanced perspective."
+            }
+        ],
+        "links": [
+            {
+                "from": 6,
+                "link": 13,
+                "to": 1
+            },
+            {
+                "from": 6,
+                "link": 22,
+                "to": 5
+            },
+            {
+                "from": 6,
+                "link": 18,
+                "to": 3
+            },
+            {
+                "from": 6,
+                "link": 25,
+                "to": 7
+            },
+            {
+                "from": 6,
+                "link": 26,
+                "to": 8
+            },
+            {
+                "from": 6,
+                "link": 23,
+                "to": 9
+            },
+            {
+                "from": 6,
+                "link": 24,
+                "to": 10
+            }
+        ]
+    }
+]

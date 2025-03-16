@@ -1,0 +1,156 @@
+[
+    {
+        "path_number": 11,
+        "hebrew_letter": "Aleph",
+        "tarot_card": "The Fool",
+        "from": "Kether",
+        "to": "Chokhmah"
+    },
+    {
+        "path_number": 12,
+        "hebrew_letter": "Beth",
+        "tarot_card": "The Magician",
+        "from": "Kether",
+        "to": "Binah"
+    },
+    {
+        "path_number": 13,
+        "hebrew_letter": "Gimel",
+        "tarot_card": "The High Priestess",
+        "from": "Kether",
+        "to": "Tipheret"
+    },
+    {
+        "path_number": 14,
+        "hebrew_letter": "Daleth",
+        "tarot_card": "The Empress",
+        "from": "Kether",
+        "to": "Daath"
+    },
+    {
+        "path_number": 15,
+        "hebrew_letter": "He",
+        "tarot_card": "The Emperor",
+        "from": "Chokhmah",
+        "to": "Binah"
+    },
+    {
+        "path_number": 16,
+        "hebrew_letter": "Vav",
+        "tarot_card": "The Hierophant",
+        "from": "Chokhmah",
+        "to": "Chesed"
+    },
+    {
+        "path_number": 17,
+        "hebrew_letter": "Zayin",
+        "tarot_card": "The Lovers",
+        "from": "Binah",
+        "to": "Geburah"
+    },
+    {
+        "path_number": 18,
+        "hebrew_letter": "Cheth",
+        "tarot_card": "The Chariot",
+        "from": "Binah",
+        "to": "Tipheret"
+    },
+    {
+        "path_number": 19,
+        "hebrew_letter": "Teth",
+        "tarot_card": "Strength",
+        "from": "Chesed",
+        "to": "Geburah"
+    },
+    {
+        "path_number": 20,
+        "hebrew_letter": "Yod",
+        "tarot_card": "The Hermit",
+        "from": "Chesed",
+        "to": "Tipheret"
+    },
+    {
+        "path_number": 21,
+        "hebrew_letter": "Kaph",
+        "tarot_card": "Wheel of Fortune",
+        "from": "Chesed",
+        "to": "Netzach"
+    },
+    {
+        "path_number": 22,
+        "hebrew_letter": "Lamed",
+        "tarot_card": "Justice",
+        "from": "Geburah",
+        "to": "Tipheret"
+    },
+    {
+        "path_number": 23,
+        "hebrew_letter": "Mem",
+        "tarot_card": "The Hanged Man",
+        "from": "Geburah",
+        "to": "Hod"
+    },
+    {
+        "path_number": 24,
+        "hebrew_letter": "Nun",
+        "tarot_card": "Death",
+        "from": "Tipheret",
+        "to": "Netzach"
+    },
+    {
+        "path_number": 25,
+        "hebrew_letter": "Samekh",
+        "tarot_card": "Temperance",
+        "from": "Tipheret",
+        "to": "Yesod"
+    },
+    {
+        "path_number": 26,
+        "hebrew_letter": "Ayin",
+        "tarot_card": "The Devil",
+        "from": "Tipheret",
+        "to": "Malkuth"
+    },
+    {
+        "path_number": 27,
+        "hebrew_letter": "Pe",
+        "tarot_card": "The Tower",
+        "from": "Netzach",
+        "to": "Hod"
+    },
+    {
+        "path_number": 28,
+        "hebrew_letter": "Tzaddi",
+        "tarot_card": "The Star",
+        "from": "Netzach",
+        "to": "Yesod"
+    },
+    {
+        "path_number": 29,
+        "hebrew_letter": "Qoph",
+        "tarot_card": "The Moon",
+        "from": "Hod",
+        "to": "Yesod"
+    },
+    {
+        "path_number": 30,
+        "hebrew_letter": "Resh",
+        "tarot_card": "The Sun",
+        "from": "Hod",
+        "to": "Malkuth"
+    },
+    {
+        "path_number": 31,
+        "hebrew_letter": "Shin",
+        "tarot_card": "Judgement",
+        "from": "Yesod",
+        "to": "Malkuth"
+    },
+    {
+        "path_number": 32,
+        "hebrew_letter": "Tau",
+        "tarot_card": "The World",
+        "from": "Netzach",
+        "to": "Malkuth"
+    }
+]

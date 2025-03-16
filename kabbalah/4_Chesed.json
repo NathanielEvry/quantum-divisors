@@ -1,0 +1,63 @@
+[
+    {
+        "title": "Chesed",
+        "english": "Mercy",
+        "names": [
+            {
+                "name": "El",
+                "english": "God, the Mighty One",
+                "description": "The Divine Name associated with Chesed, emphasizing the aspect of God as the source of benevolence and kindness."
+            },
+            {
+                "name": "Tzadkiel",
+                "english": "Archangel of Chesed",
+                "description": "The Archangel known as the Righteousness of God, embodying the mercy and grace of the divine."
+            },
+            {
+                "name": "Chasmalim",
+                "english": "Shining Ones",
+                "description": "The order of angels associated with Chesed, representing the emanation of divine love and the vision of love."
+            },
+            {
+                "name": "Jupiter",
+                "description": "The planetary influence associated with Chesed, symbolizing expansion, benevolence, and prosperity."
+            },
+            {
+                "name": "Tzadekh",
+                "english": "Righteousness",
+                "description": "Reflects the attribute of justice tempered with mercy, the balance of fairness and compassion."
+            },
+            {
+                "name": "Obedience",
+                "description": "Signifies the discipline to follow the divine will and the path of righteousness."
+            },
+            {
+                "name": "Ruach",
+                "english": "Ego (Memory)",
+                "description": "Represents the aspect of the soul related to intellect and memory, connecting the emotions with reason."
+            }
+        ],
+        "links": [
+            {
+                "from": 4,
+                "link": 19,
+                "to": 5
+            },
+            {
+                "from": 4,
+                "link": 21,
+                "to": 7
+            },
+            {
+                "from": 4,
+                "link": 16,
+                "to": 2
+            },
+            {
+                "from": 4,
+                "link": 20,
+                "to": 6
+            }
+        ]
+    }
+]

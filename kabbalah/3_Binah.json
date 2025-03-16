@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Binah",
+        "english": "Understanding",
+        "names": [
+            {
+                "name": "Jehovah Elohim",
+                "english": "The Lord God",
+                "description": "The Divine Name associated with Binah, signifying the aspect of God that shapes form and structure."
+            },
+            {
+                "name": "Tzaphkiel",
+                "english": "Archangel of Binah",
+                "description": "Known as the 'Contemplation of God', this archangel represents understanding and the contemplative aspects of the divine."
+            },
+            {
+                "name": "Aravot",
+                "english": "Heaven",
+                "description": "The order of angels associated with Binah, representing the concept of the enclosure or womb of creation."
+            },
+            {
+                "name": "Saturn",
+                "description": "The planetary influence associated with Binah, embodying time, limitation, and form."
+            },
+            {
+                "name": "Aimah (Mother)",
+                "description": "Symbolic attribution to Binah, referring to the archetypal feminine or maternal energy in the divine structure, the nurturing aspect that gives form."
+            },
+            {
+                "name": "Mara",
+                "english": "Bitterness",
+                "description": "A name reflecting the sorrow and understanding of the complexities and challenges of creation."
+            }
+        ],
+        "links": [
+            {
+                "from": 3,
+                "link": 12,
+                "to": 1
+            },
+            {
+                "from": 3,
+                "link": 15,
+                "to": 2
+            },
+            {
+                "from": 3,
+                "link": 18,
+                "to": 6
+            },
+            {
+                "from": 3,
+                "link": 17,
+                "to": 5
+            }
+        ]
+    }
+]

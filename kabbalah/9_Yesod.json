@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Yesod",
+        "english": "Foundation",
+        "names": [
+            {
+                "name": "Shaddai El Chai",
+                "english": "Almighty Living God",
+                "description": "The Divine Name associated with Yesod, representing the foundation of God's presence in the world."
+            },
+            {
+                "name": "Gabriel",
+                "english": "Archangel of Yesod",
+                "description": "The Archangel known as the Messenger of God, associated with revelation and the interpretation of dreams."
+            },
+            {
+                "name": "Cherubim",
+                "english": "The Strong",
+                "description": "The order of angels associated with Yesod, symbolizing the guardians of God's glory."
+            },
+            {
+                "name": "Moon",
+                "description": "The planetary influence associated with Yesod, representing the reflection of the divine light and the rhythms of life."
+            },
+            {
+                "name": "Levanah",
+                "english": "The White",
+                "description": "Symbolizes the purity and the foundational truth that underlies creation."
+            },
+            {
+                "name": "Tsadik",
+                "english": "Righteous",
+                "description": "Reflects the attribute of righteousness as the moral foundation of actions."
+            }
+        ],
+        "links": [
+            {
+                "from": 9,
+                "link": 23,
+                "to": 6
+            },
+            {
+                "from": 9,
+                "link": 30,
+                "to": 8
+            },
+            {
+                "from": 9,
+                "link": 27,
+                "to": 7
+            },
+            {
+                "from": 9,
+                "link": 32,
+                "to": 10
+            }
+        ]
+    }
+]

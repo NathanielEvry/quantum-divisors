@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Chokhmah",
+        "english": "Wisdom",
+        "names": [
+            {
+                "name": "Yah",
+                "english": "God of Life",
+                "description": "The Divine Name associated with Chokhmah, representing the dynamic, expansive force of creation."
+            },
+            {
+                "name": "Raziel",
+                "english": "Archangel of Chokhmah",
+                "description": "Known as the 'Secret of God', the angel associated with mystery and the concealed aspects of the divine."
+            },
+            {
+                "name": "Auphanim",
+                "english": "Wheels",
+                "description": "The order of angels associated with Chokhmah, symbolizing the primordial energies of the cosmos in constant motion."
+            },
+            {
+                "name": "Zodiac",
+                "description": "Represents the cosmic cycles and the celestial influences that Chokhmah governs."
+            },
+            {
+                "name": "Ab (Father)",
+                "description": "Symbolic attribution to Chokhmah, referring to the archetypal masculine or paternal energy in the divine structure."
+            }
+        ],
+        "links": [
+            {
+                "from": 2,
+                "link": 11,
+                "to": 1
+            },
+            {
+                "from": 2,
+                "link": 14,
+                "to": 0
+            },
+            {
+                "from": 2,
+                "link": 16,
+                "to": 4
+            },
+            {
+                "from": 2,
+                "link": 15,
+                "to": 3
+            }
+        ]
+    }
+]

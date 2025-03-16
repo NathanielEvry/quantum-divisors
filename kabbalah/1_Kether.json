@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Kether",
+        "english": "Crown",
+        "names": [
+            {
+                "name": "Ehyeh",
+                "english": "I Am",
+                "description": "The Divine Name associated with Kether, representing existence and the highest aspect of the divine."
+            },
+            {
+                "name": "Metatron",
+                "english": "Archangel of Kether",
+                "description": "Known as the Chancellor of Heaven, the angel of life, and the king of angels."
+            },
+            {
+                "name": "Chayyot Ha Kadesh",
+                "english": "Holy Living Creatures",
+                "description": "Represent the highest order of angels, associated with divine knowledge and presence."
+            },
+            {
+                "name": "Crown",
+                "description": "Symbolizes the topmost part, representing the highest state of perfection and the divine will."
+            },
+            {
+                "name": "Yechidah",
+                "description": "The highest level of the soul, representing oneness with God."
+            },
+            {
+                "name": "Eheieh Asher Eheieh",
+                "english": "I Am That I Am",
+                "description": "Signifies the most concealed of God's attributes."
+            }
+        ],
+        "links": [
+            {
+                "from": 1,
+                "link": 11,
+                "to": 2
+            },
+            {
+                "from": 1,
+                "link": 13,
+                "to": 6
+            },
+            {
+                "from": 1,
+                "link": 12,
+                "to": 3
+            },
+            {
+                "from": 1,
+                "link": 14,
+                "to": 0
+            }
+        ]
+    }
+]

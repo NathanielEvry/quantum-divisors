@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Hod",
+        "english": "Glory",
+        "names": [
+            {
+                "name": "Elohim Tzabaoth",
+                "english": "God of Hosts",
+                "description": "The Divine Name associated with Hod, reflecting the majesty and splendor of God's manifold creation."
+            },
+            {
+                "name": "Michael",
+                "english": "Archangel of Hod",
+                "description": "The Archangel known for his role as a protector and the leader of the army of God."
+            },
+            {
+                "name": "Beni Elohim",
+                "english": "Sons of the Gods",
+                "description": "The order of angels associated with Hod, often seen as intermediaries between the divine and humanity, representing intellect and communication."
+            },
+            {
+                "name": "Mercury",
+                "description": "The planetary influence associated with Hod, symbolizing communication, intellect, and travel."
+            },
+            {
+                "name": "Hod",
+                "english": "Majesty",
+                "description": "Signifies the grandeur and splendor that come from the precise execution of God's will."
+            },
+            {
+                "name": "Majesty",
+                "description": "Embodies the glory and awe-inspiring aspect of the divine plan manifesting through order and intellect."
+            }
+        ],
+        "links": [
+            {
+                "from": 8,
+                "link": 28,
+                "to": 7
+            },
+            {
+                "from": 8,
+                "link": 26,
+                "to": 6
+            },
+            {
+                "from": 8,
+                "link": 30,
+                "to": 9
+            },
+            {
+                "from": 8,
+                "link": 24,
+                "to": 10
+            }
+        ]
+    }
+]

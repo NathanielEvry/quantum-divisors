@@ -1,0 +1,53 @@
+[
+    {
+        "title": "Malkuth",
+        "english": "Kingdom",
+        "names": [
+            {
+                "name": "Adonai Melekh",
+                "english": "The Lord is King",
+                "description": "The Divine Name associated with Malkuth, emphasizing God's rulership and the manifestation of His kingdom in the material world."
+            },
+            {
+                "name": "Sandalphon",
+                "english": "Archangel of Malkuth",
+                "description": "The Archangel associated with the power to turn prayer into reality, grounding divine energy into the material plane."
+            },
+            {
+                "name": "Ashim",
+                "english": "Souls of Fire",
+                "description": "The order of angels associated with Malkuth, representing the transformation and the ascension of the soul through the physical experience."
+            },
+            {
+                "name": "Earth",
+                "description": "The element associated with Malkuth, representing physicality, reality, and the tangible universe."
+            },
+            {
+                "name": "Shekhinah",
+                "english": "Divine Presence",
+                "description": "Symbolizes the indwelling presence of God in the world, the divine spark within all matter."
+            },
+            {
+                "name": "The Bride",
+                "description": "Embodies the receptivity of the divine influence, often personified as the bride in the divine marriage of the sefirot."
+            }
+        ],
+        "links": [
+            {
+                "from": 10,
+                "link": 24,
+                "to": 6
+            },
+            {
+                "from": 10,
+                "link": 32,
+                "to": 9
+            },
+            {
+                "from": 10,
+                "link": 31,
+                "to": 8
+            }
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Netzach",
+        "english": "Victory",
+        "names": [
+            {
+                "name": "Jehovah Tzabaoth",
+                "english": "Lord of Hosts",
+                "description": "The Divine Name associated with Netzach, emphasizing the enduring and victorious aspect of God."
+            },
+            {
+                "name": "Haniel",
+                "english": "Archangel of Netzach",
+                "description": "The Archangel associated with grace, charm, and the beauty found in endurance."
+            },
+            {
+                "name": "Elohim",
+                "english": "Gods",
+                "description": "The order of angels associated with Netzach, representing the multitude of divine creative forces."
+            },
+            {
+                "name": "Venus",
+                "description": "The planetary influence associated with Netzach, symbolizing love, creativity, and attraction."
+            },
+            {
+                "name": "Nogah",
+                "english": "Glowing",
+                "description": "Reflects the luminescence and brightness of divine victory and the triumph of light over darkness."
+            },
+            {
+                "name": "Nitzachon",
+                "english": "Triumph",
+                "description": "Symbolizes the success and achievement that comes through perseverance and endurance."
+            }
+        ],
+        "links": [
+            {
+                "from": 7,
+                "link": 25,
+                "to": 6
+            },
+            {
+                "from": 7,
+                "link": 28,
+                "to": 8
+            },
+            {
+                "from": 7,
+                "link": 27,
+                "to": 9
+            },
+            {
+                "from": 7,
+                "link": 21,
+                "to": 5
+            }
+        ]
+    }
+]

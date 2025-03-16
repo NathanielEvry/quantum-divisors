@@ -5,6 +5,7 @@ This repository contains a collection of symbolic systems for tokenizing experie
 ## File Contents
 
 - **[hexagrams.md](hexagrams.md)**: I Ching hexagram symbols and their corresponding meanings
+- **[trigrams.md](trigrams.md)**: I Ching Trigram symbols and their corresponding meanings
 - **[frequencies.md](frequencies.md)**: Frequency tables with metaphysical correspondences
 - **[todah_genesis_1-2.md](todah_genesis_1-2.md)**: Hebrew text of Genesis chapters 1-2
 

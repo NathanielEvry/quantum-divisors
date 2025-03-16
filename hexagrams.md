@@ -1,7 +1,7 @@
 # hexagrams
 just some symbols and unicode for now:
 
-[[Trigrams]]
+ref [trigrams.md](trigrams.md)
 
 ## Notes
 It'd be really REALLY cool to actually go and have a friggin sick AF app to work with this.
